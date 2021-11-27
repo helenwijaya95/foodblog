@@ -72,7 +72,7 @@ By setting the key as the parameter ('contactNumber), it will return false if th
 
 This method has many other useful functions, please check more interesting example in the official documentation.
 
-## 3. in Operator
+### **3. in Operator**
 
 It's a less common used Javascript method to check object properties. It has the similar function as hasOwnProperty() but with exception, it also returns true for any inherited properties. For example, by console.log the obj, it will show all the inherited properties:
 
